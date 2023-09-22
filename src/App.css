@@ -1,0 +1,8 @@
+.container {
+  display: grid;
+  place-items: center;
+  height: 350px;
+  width: 350px;
+  border: red 2px solid;
+  border-radius: 15px;
+}
